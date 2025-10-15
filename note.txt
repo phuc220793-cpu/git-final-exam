@@ -1,3 +1,5 @@
 - Git giúp quản lý phiên bản mã nguồn hiệu quả.
 - Dễ dàng theo dõi thay đổi và lịch sử chỉnh sửa.
 - Hỗ trợ làm việc nhóm tốt thông qua branch và merge.
+- Giúp học cách làm việc chuyên nghiệp với mã nguồn.
+- Ban đầu hơi khó nhưng càng dùng càng thích.
