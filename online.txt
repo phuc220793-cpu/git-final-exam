@@ -1,3 +1,5 @@
 Đây là file được tạo trực tiếp trên GitHub.
 Mục đích: kiểm tra git pull.
 Thực hành Git Final Exam.
+File này đã được chỉnh sửa ở local.
+Đã thêm dòng mới sau khi pull.
