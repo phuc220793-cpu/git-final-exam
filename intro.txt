@@ -13,3 +13,10 @@ Kỹ năng:
 - Sử dụng Git và GitHub.
 - Lập trình Python.
 - Thiết kế giao diện cơ bản.
+
+Kế hoạch học tập:
+- Nắm vững kiến thức về Git và quản lý phiên bản.
+- Thực hành tạo branch, merge, và pull request.
+- Nâng cao kỹ năng Python và AI ứng dụng.
+- Học thêm về xử lý ảnh bằng OpenCV.
+- Hoàn thành dự án cuối kỳ đúng tiến độ.
