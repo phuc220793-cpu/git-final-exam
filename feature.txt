@@ -1,0 +1,6 @@
+Tính năng mới: Hệ thống tự động chấm điểm bài tập Git.
+1. Cho phép kiểm tra các bước commit của sinh viên.
+2. Hiển thị điểm số dựa trên độ hoàn thiện bài làm.
+3. Gợi ý chỉnh sửa nếu sai cú pháp commit.
+4. Tự động tạo Pull Request mẫu cho sinh viên.
+5. Lưu lại lịch sử làm bài để theo dõi tiến độ.
