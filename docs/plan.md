@@ -11,3 +11,8 @@
 5. Làm mini project cá nhân.
 6. Viết báo cáo tiến độ học tập.
 7. Tổng kết và rút kinh nghiệm.
+- Ôn lại kiến thức về Git reset và revert.
+- Thực hành merge conflict với bạn cùng nhóm.
+- Hoàn thành bài kiểm tra cuối kỳ Git Final Exam.
+- Chuẩn bị báo cáo tổng kết môn học.
+
